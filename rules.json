@@ -1,0 +1,298 @@
+{
+    "categories":
+    [
+        {   "title":"News", "tag":"news" },
+        {   "title":"Activities", "tag":"activities" },
+        {   "title":"Websites and Communities", "tag":"websites.and.communities" },
+        {   "title":"Roleplaying", "tag":"roleplaying" },
+        {   "title":"Discussions, Reviews and Meta", "tag":"discussions.reviews.and.meta" },
+        {   "title":"Recommendations", "tag":"recommendations" },
+        {   "title":"Fanwork Quest!", "tag":"fanwork.quest!" },
+        {   "title":"Fanfic", "tag":"fanfic", "subcanons":true },
+        {   "title":"Fan Comics", "tag":"fan.comics" },
+        {   "title":"Fanart", "tag":"fanart", "subcanons":true },
+        {   "title":"Icons", "tag":"icons", "subcanons":true },
+        {   "title":"Cosplay", "tag":"cosplay" },
+        {   "title":"Crafts", "tag":"crafts" },
+        {   "title":"Graphics", "tag":"graphics" },
+        {   "title":"Doujinshi", "tag":"doujinshi" },
+        {   "title":"Resources", "tag":"resources" },
+        {   "title":"FSTs and Music", "tag":"fsts.and.music" },
+        {   "title":"Animations and Videos", "tag":"animations.and.videos" },
+        {   "title":"Gameplay", "tag":"gameplay" },
+        {   "title":"Buying and Selling", "tag":"buying.and.selling" },
+        {   "title":"Miscellaneous", "tag":"miscellaneous" }
+    ],
+    "rules":
+    [
+        {
+            "has_tags":
+            [
+                "final.fantasy.(general)"
+            ],
+            "category":
+            [
+                "Final Fantasy (General)"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.i"
+            ],
+            "category":
+            [
+                "Final Fantasy I"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.ii"
+            ],
+            "category":
+            [
+                "Final Fantasy II"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.iii"
+            ],
+            "category":
+            [
+                "Final Fantasy III"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.iv.(series)",
+                "final.fantasy.iv"
+            ],
+            "category":
+            [
+                "Final Fantasy IV (Series)"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.iv.(series)",
+                "ffiv:the.after.years"
+            ],
+            "category":
+            [
+                "Final Fantasy IV (Series)",
+                "Final Fantasy IV: The After Years"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.v"
+            ],
+            "category":
+            [
+                "Final Fantasy V"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy:legend.of.the.crystals"
+            ],
+            "category":
+            [
+                "Final Fantasy V",
+                "Final Fantasy: Legend of the Crystals"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.vi"
+            ],
+            "category":
+            [
+                "Final Fantasy VI"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "compilation.of.ffvii"
+            ],
+            "category":
+            [
+                "Compilation of Final Fantasy VII"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.viii"
+            ],
+            "category":
+            [
+                "Final Fantasy VIII"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.ix"
+            ],
+            "category":
+            [
+                "Final Fantasy IX"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.x.&.final.fantasy.x-2",
+                "final.fantasy.x"
+            ],
+            "category":
+            [
+                "Final Fantasy X & Final Fantasy X-2"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.x.&.final.fantasy.x-2",
+                "final.fantasy.x-2"
+            ],
+            "category":
+            [
+                "Final Fantasy X & Final Fantasy X-2"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.xi"
+            ],
+            "category":
+            [
+                "Final Fantasy XI"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.tactics:war.of.the.lions"
+            ],
+            "category":
+            [
+                "Ivalice Alliance",
+                "Final Fantasy Tactics: War of the Lions"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.xii.(series)",
+                "final.fantasy.xii"
+            ],
+            "category":
+            [
+                "Ivalice Alliance",
+                "Final Fantasy XII (Series)"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.xii.(series)",
+                "ffxii:revenant.wings"
+            ],
+            "category":
+            [
+                "Ivalice Alliance",
+                "Final Fantasy XII (Series)"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.tactics.advance.(series)",
+                "final.fantasy.tactics.advance"
+            ],
+            "category":
+            [
+                "Ivalice Alliance",
+                "Final Fantasy Tactics Advance (Series)"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.tactics.advance.(series)",
+                "ff.tactics.a2:grimoire.of.the.rift"
+            ],
+            "category":
+            [
+                "Ivalice Alliance",
+                "Final Fantasy Tactics Advance (Series)"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "vagrant.story"
+            ],
+            "category":
+            [
+                "Ivalice Alliance",
+                "Vagrant Story"
+            ],
+            "priority":1
+        },
+        {
+            "has_tags":
+            [
+                "final.fantasy.xiii"
+            ],
+            "category":
+            [
+                "Final Fantasy XIII"
+            ],
+            "priority":1
+        }
+    ],
+    "errors":
+    [
+        {
+            "has_tag":"final.fantasy.x.&.final.fantasy.x-2",
+            "lacks_tags":
+            [
+                "final.fantasy.x",
+                "final.fantasy.x-2"
+            ]
+        }
+    ]
+}

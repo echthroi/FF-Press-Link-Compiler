@@ -1,0 +1,36 @@
+
+.block
+{
+    display:block;
+}
+
+input.alt-image-tag
+{
+    display:inline-block;
+}
+
+input.source-url,input.default-image,input.alt-image
+{
+    width:200px;
+}
+
+input.alt-image-tag
+{
+    width:80px;
+}
+
+input.formatted-source
+{
+    width:400px;
+    height:100px;
+}
+
+#source-template
+{
+    display:none;
+}
+
+#new-source-data input, #new-source-data textarea
+{
+    color:gray;
+}
